@@ -1,4 +1,4 @@
-Login-SignUp_Authentication is an app that demonstrates the SignUp and Login authentication of a user with the help of Firebase Email Verification.
+![Screen Shot 2023-10-15 at 18 19 46 PM](https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/0019f414-31e2-471c-bf3a-cc705db83240)Login-SignUp_Authentication is an app that demonstrates the SignUp and Login authentication of a user with the help of Firebase Email Verification.
 # This app is made using MIT App Inventor
 # Code Blocks
 ![CODE BLOCKS](https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/991f3c00-5099-496e-b602-4456756de0fd)
@@ -13,4 +13,4 @@ Login-SignUp_Authentication is an app that demonstrates the SignUp and Login aut
 <img width="960" alt="FIREBASE AFTER SIGNUP" src="https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/e6b195a7-2d13-4e8e-8f1f-15a84c0b3418">
 
 ## Login Click Flow
-![Status on SignUp Click](https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/dc0026e4-fc29-4f10-a168-d9f777b47763) -> ![Logged In](https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/e33797aa-b637-403b-ab52-09b5a59acb89)
+![Screen Shot 2023-10-15 at 18 19 46 PM](https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/ed3e7958-ce0a-4246-bded-b975476c858f)
