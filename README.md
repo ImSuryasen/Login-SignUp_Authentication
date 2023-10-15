@@ -1,4 +1,4 @@
-# Login-SignUp_Authentication is an app that demonstrates the SignUp and Login authentication of a user with the help of Firebase Email Verification.
+Login-SignUp_Authentication is an app that demonstrates the SignUp and Login authentication of a user with the help of Firebase Email Verification.
 # This app is made using MIT App Inventor
 # Code Blocks
 ![CODE BLOCKS](https://github.com/ImSuryasen/Login-SignUp_Authentication/assets/100407626/991f3c00-5099-496e-b602-4456756de0fd)
